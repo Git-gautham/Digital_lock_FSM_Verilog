@@ -46,7 +46,7 @@ Simulated using **Xilinx Vivado**
 
 ## 📊 Waveform
 
-![Waveform](waveform.png)
+![Waveform](https://github.com/Git-gautham/Digital_lock_FSM_Verilog/blob/main/Vivado_Waveform.png)
 
 ---
 
