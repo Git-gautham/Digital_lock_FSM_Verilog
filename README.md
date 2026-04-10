@@ -57,7 +57,7 @@ Simulated using **Xilinx Vivado**
 | `datapath.v` | Shift register |
 | `controller.v` | FSM logic |
 | `digital_lock_top.v` | Top module |
-| `tb_digital_lock_top.v` | Testbench |
+| `tb.v` | Testbench |
 
 ---
 
